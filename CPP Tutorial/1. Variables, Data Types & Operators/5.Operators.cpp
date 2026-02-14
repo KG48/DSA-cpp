@@ -20,7 +20,7 @@ int main() {
     cout << "!(a == b):- " << !(a == b) << endl;          //Logical NOT Operator
     cout << ((a>b) || (a<b)) << endl;                     //logical OR operator 
     cout << ((a>b) && (a<b)) << endl;                     //Logical AND operator 
-
+    cout << (a % b) << endl;
 
     int x=10;
 
