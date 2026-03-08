@@ -22,7 +22,7 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
-    string s = "aba";
+    string s = "abba";
 
     cout << isPalindrome(s);
     return 0;
