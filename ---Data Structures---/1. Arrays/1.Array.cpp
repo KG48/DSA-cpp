@@ -1,5 +1,6 @@
 // Array :- Array is data structure used to store the multiple elements of same data type in contigous memory location.
-//it is linear data structure 
+//it is a linear data structure 
+
 
 
 #include <bits/stdc++.h>
